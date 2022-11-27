@@ -1,0 +1,35 @@
+h1{ text-align: center;
+}
+p{
+    color:white;
+    font-family: candara;
+}
+td{
+    text-align: center;
+    font-family: candara;
+    color:white;
+}
+
+h3,li{
+    color: whitesmoke;
+    font-family: candara;
+    text-transform: uppercase;
+}
+#c1{
+    text-decoration-color: antiquewhite;
+}
+#fondotabla{
+    background-color: black;
+}
+#letras{
+    color: yellow;
+    font-family: candara;
+}
+#title{
+    text-align: center;
+    text-justify: auto;
+    font-size: 45px;
+}
+#fondotabla1{
+    background-image: url(../img/fondotabla.jpg);
+}
